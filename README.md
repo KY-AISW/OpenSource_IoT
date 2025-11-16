@@ -42,11 +42,11 @@ GitHub을 중심으로 오픈소스 생태계 속에서 IoT 장비를 운영해 
 > Session2 : Git Pratice
 1. Git Setup
 2. GitHub Setup
-3. MarkDown Pratice
+3. MarkDown Practice
 4. Git CLI Practice
-5. SourceTree SEtup
-6. Git GUI Pratice
+5. SourceTree Setup
+6. Git GUI Practice
 
-> Session3 : IoT Pratice using PS(Processing System)
+> Session3 : IoT Practice using PS(Processing System) embedded in Zynq-7000, Single Die FPGA
 1. Internal LED/Siwtch Control
 2. PMOD Control
